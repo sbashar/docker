@@ -1,2 +1,2 @@
 # docker
-A repository to for learning docker
+A repository for learning docker
